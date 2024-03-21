@@ -1,1 +1,1 @@
-my own https_ssl
+Configuring haproxy and domains
